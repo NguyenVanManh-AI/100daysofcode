@@ -15,6 +15,6 @@ Follow my journey on Instagram [@codinghashira](https://instagram.com/codinghash
 Why use vscode? <br>
 -- well, try to use microsoft word, you'll get it ;)
 
-## Band Name Generator
+## Complete Video Documentation on Instagram
 
-[day01 - link to my reel](https://www.instagram.com/p/Cxxit4GNfms/)
+[@codinghashira](https://instagram.com/codinghashira)
