@@ -1,6 +1,6 @@
 # Day 1 - Fundamentals of Web Development
 
-Follow my journey on Instagram (@codinghashira)[https://instagram.com/codinghashira] <br>
+Follow my journey on Instagram [@codinghashira](https://instagram.com/codinghashira)<br>
 
 > Note: links at the right of the concepts are resources used by me to gather information and learn about that particular topic.
 
