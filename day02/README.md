@@ -4,7 +4,7 @@ Follow my journey on Instagram [@codinghashira](https://instagram.com/codinghash
 
 > Note: we're using freecodecamp curriculum, for gaining basic knowledge about web development in one place (to save time researching about every single topic)
 
-![HTML freeCodeCamp](https://github.com/hxshira/100daysofcode/blob/main/assets/html-freecodecamp.png?raw=true)
+![HTML freeCodeCamp](image.png)
 
 ## Concepts Practised
 
