@@ -3,6 +3,15 @@
 
 ![100-days-of-code](https://github.com/hxshira/100daysofcode/blob/main/assets/100daysofcode%20-%20hxshira.jpg?raw=true)
 
+## How this challenge work? (Rules)
+1. Code a minimum of two hours a day for the next 100 days.
+2. Post your progress every day with the #100daysofcode hashtag on X (Twitter)
+
+### Plan
+Plan: Formulate what you want to work on during the challenge. It might be - learning a framework or starting a journey of learning to code or improving your skill level with a particular technology or a programming language. Don’t spend too much time planning, but having a plan like this will help you on your path.
+
+In this case, I've brought together a Complete Roadmap To become a web developer using JavaScript & ReactJS.
+
 ### Description
 #100DaysOfCode Challenge - To master JavaScript &amp; React Language Skills. Documenting everything @codinghashira on Instagram
 
@@ -29,17 +38,19 @@ Daksh.
 
 
 
-## 🔰 Beginner 
-- [Day 1:](https://github.com/hxshira/100daysofcode/tree/main/day01) 
-- [Day 2:](https://github.com/hxshira/100daysofcode/tree/main/day02) 
-- [Day 3:](https://github.com/hxshira/100daysofcode/tree/main/day03) 
-- [Day 4:](https://github.com/hxshira/100daysofcode/tree/main/day04) 
-- [Day 5:](https://github.com/hxshira/100daysofcode/tree/main/day05) 
-- [Day 6:](https://github.com/hxshira/100daysofcode/tree/main/day06) 
-- [Day 7:](https://github.com/hxshira/100daysofcode/tree/main/day07) 
-- [Day 8:](https://github.com/hxshira/100daysofcode/tree/main/day08) 
-- [Day 9:](https://github.com/hxshira/100daysofcode/tree/main/day09) 
-- [Day 10:](https://github.com/hxshira/100daysofcode/tree/main/day10) 
+## 🔰 Beginner (Responsive Web Design)
+We are using the freeCodeCamp Core curriculum for learning Website Development, which provides us with detailed articles and hands-on coding experience through their website [freecodecamp.org/responsive-web-design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+- [Day 1:](https://github.com/hxshira/100daysofcode/tree/main/day01) Fundamentals of Web Development
+- [Day 2:](https://github.com/hxshira/100daysofcode/tree/main/day02) HTML Intermediate & Advanced
+- [Day 3:](https://github.com/hxshira/100daysofcode/tree/main/day03) HTML Projects (Test your knowledge)
+- [Day 4:](https://github.com/hxshira/100daysofcode/tree/main/day04) CSS Intermediate
+- [Day 5:](https://github.com/hxshira/100daysofcode/tree/main/day05) JavaScript Basics: Day 1
+- [Day 6:](https://github.com/hxshira/100daysofcode/tree/main/day06) JavaScript Basics: Day 2
+- [Day 7:](https://github.com/hxshira/100daysofcode/tree/main/day07) JavaScript Basics: Day 3
+- [Day 8:](https://github.com/hxshira/100daysofcode/tree/main/day08) JavaScript Basics: Day 4
+- [Day 9:](https://github.com/hxshira/100daysofcode/tree/main/day09) JavaScript Basics: Day 5
+- [Day 10:](https://github.com/hxshira/100daysofcode/tree/main/day10) JavaScript Basics: Day 6
 - [Day 11:](https://github.com/hxshira/100daysofcode/tree/main/day11) 
 - [Day 12:](https://github.com/hxshira/100daysofcode/tree/main/day12) 
 - [Day 13:](https://github.com/hxshira/100daysofcode/tree/main/day13) 
