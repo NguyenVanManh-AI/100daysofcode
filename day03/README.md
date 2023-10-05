@@ -1,5 +1,7 @@
 # Day 3 - HTML Projects (Test your knowledge)
 
+> building is the best way to learn to code.
+
 Follow my journey on Instagram [@codinghashira](https://instagram.com/codinghashira)<br>
 
 ## Project Ideas (Own Implimentation)
