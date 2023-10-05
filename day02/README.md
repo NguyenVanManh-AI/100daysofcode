@@ -2,8 +2,6 @@
 
 Follow my journey on Instagram [@codinghashira](https://instagram.com/codinghashira)<br>
 
-![HTML freeCodeCamp](image.png)
-
 ## Concepts Practised
 
 - HTML Intermediate Topics: [Images](https://www.w3schools.com/html/html_images.asp), [Links](https://www.w3schools.com/html/html_links.asp), [Tables](https://www.w3schools.com/html/html_tables.asp), [Forms](https://www.w3schools.com/html/html_forms.asp), [Lists](https://www.w3schools.com/html/html_lists.asp), [Span](https://www.w3schools.com/tags/tag_span.asp) and [Div](https://www.w3schools.com/tags/tag_div.asp), [Meta Tags](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta).
