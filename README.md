@@ -19,15 +19,15 @@ Documenting my Journey towards Frontend Mastery (with JavaScript + ReactJS) as a
 
 Creating this repo, so you can follow the same path created and followed by me and save 100s of hours without recreating the complete roadmap and finding resources across Web.
 
-Im documenting my whole journey on Instagram [@codinghashira](https://instagram.com/codinghashira). <br> Sharing all the Study Resources, Tools & Projects that I built in the corresponding folders according to days.
+I'm documenting my whole journey on Instagram [@codinghashira](https://instagram.com/codinghashira). <br> Sharing all the Study Resources, Tools and projects that I built in the corresponding folders according to days.
 
 ### Purpose
-My Primary and Absolute Purpose with this challenge is to Master JavaScript & ReactJS so I can pursue a path of MERN Stack development & Apply for Jobs & Internships.
+My Primary and Absolute Purpose with this challenge is to Master JavaScript & ReactJS so I can pursue a path of MERN Stack development and apply for Jobs and internships.
 
 ### Disclaimer
-Ofcourse, it's practically impossible to Master these two Insane Technologies (JavaScript + ReactJS) in just 100days. But it doesnt matter, I've decided to do it no matter what it takes.
+Of course, it's practically impossible to Master these two Insane Technologies (JavaScript + ReactJS) in just 100 days. But it doesn't matter, I've decided to do it no matter what it takes.
 
-Once decide to do something or say something, My word is Iron-Willed i.e I will do whatever I've commited to myself whatever consequences I'll face.
+Once decide to do something or say something, My word is Iron-Willed i.e. I will do whatever I've committed to myself whatever consequences I'll face.
 
 If you read this, thank you.<br>
 Good Luck on this Journey.
@@ -42,8 +42,8 @@ Daksh.
 We are using the freeCodeCamp Core curriculum for learning Website Development, which provides us with detailed articles and hands-on coding experience through their website [freecodecamp.org/responsive-web-design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
 - [Day 1:](https://github.com/hxshira/100daysofcode/tree/main/day01) Fundamentals of Web Development
-- [Day 2:](https://github.com/hxshira/100daysofcode/tree/main/day02) HTML Intermediate & Advanced
-- [Day 3:](https://github.com/hxshira/100daysofcode/tree/main/day03) HTML Projects (Test your knowledge)
+- [Day 2:](https://github.com/hxshira/100daysofcode/tree/main/day02) Introduction to HTML
+- [Day 3:](https://github.com/hxshira/100daysofcode/tree/main/day03) Intermediate HTML
 - [Day 4:](https://github.com/hxshira/100daysofcode/tree/main/day04) CSS Intermediate
 - [Day 5:](https://github.com/hxshira/100daysofcode/tree/main/day05) JavaScript Basics: Day 1
 - [Day 6:](https://github.com/hxshira/100daysofcode/tree/main/day06) JavaScript Basics: Day 2
